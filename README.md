@@ -11,3 +11,7 @@ The smart contract also pays you a small amount of Ethereum when you send me a m
 This app does require you have a smart contract deployed to use. 
 
 I built it using Buildspace's tutorials which uses hardhat to help create the smart contract. 
+
+## Moving to Replit
+
+In lieu of Replit's awesome new solidity template, going to be moving all of this over to Replit and improving it!
